@@ -1,0 +1,16 @@
+Employee_Id,Employee_Name,Branch_ID ,Company_ID
+E-101,xyz-1,B-101,C1
+E-102,xyz-2,B-102,C1
+E-103,xyz-3,B-103,C1
+E-104,xyz-4,B-104,C1
+E-105,xyz-5,B-105,C1
+E-201,xyz-6,B-201,C2
+E-202,xyz-7,B-202,C2
+E-203,xyz-8,B-203,C2
+E-204,xyz-9,B-204,C2
+E-205,xyz-10,B-205,C2
+E-301,xyz-11,B-301,C3
+E-302,xyz-12,B-302,C3
+E-303,xyz-13,B-303,C3
+E-304,xyz-14,B-304,C3
+E-305,xyz-15,B-305,C3
